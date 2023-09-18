@@ -11,8 +11,11 @@ Pablo Paez - Desarrollador Web - pablopaez2307@gmail.com
 
 # Demo del proyecto:
 <br/>
-<img src="/assets/images/github_readme.jpg" width="960" height="700"/>
 
+<a href="https://github.com/Pepe2307/ToDoList_React">
+    <img src="src/assets/images/github_readme.jpg" alt="Logo">
+</a>
+  
 # Version Mobile📱
 
 <div align="center">
